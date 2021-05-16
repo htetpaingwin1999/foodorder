@@ -1,5 +1,5 @@
 <?php include('partials/menu.php'); ?>
-<?php include('../config/constants.php');?>
+<?php include('../../../../config/constants.php');?>
 
 
   <!-- Main Content Section Starts -->
